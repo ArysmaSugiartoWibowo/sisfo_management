@@ -1,0 +1,12 @@
+.login-page,
+.content-wrapper {
+	background: #c9dabf;
+}
+
+.bg-image {
+	background-image: url("../logo-baznas.png");
+	background-size: auto 50%;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+}

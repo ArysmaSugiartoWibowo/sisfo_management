@@ -1,0 +1,9 @@
+- pertama-tama siapkan xampp dan web browser
+- buka xampp, nyalakan apache dan phpmyadmin
+- buka phpmyadmin di web browser alamat sesuikan dengan settingan local anda
+- buat database baru dengan nama spk_beasiswa
+- import file database yang ada di folder database projek
+- sebelum itu tadi ekstrak dulu projeknya ya wwkwkwk
+- hasil ekstrakan projek di copi ke folder xampp terus htdocs
+- setelah itu panggil nama projek anda di web browser.
+- terima kasih, semoga berhasil :) 
